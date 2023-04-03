@@ -1,0 +1,1 @@
+python -m nuitka --mingw64 --standalone --output-dir=o --include-package=huggingface_hub._snapshot_download fast-whisper2ass.py
