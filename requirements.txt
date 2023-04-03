@@ -1,0 +1,6 @@
+ffmpeg_python
+huggingface_hub
+tqdm
+ctranslate2==3.10.3
+numpy
+tokenizers
